@@ -1,0 +1,22 @@
+body{
+   padding: 50px 20px
+}
+
+.tools{
+	display: inline-block;
+	padding-bottom: 10px
+}
+
+.tools>div{
+	display: block;
+	float: left;
+	margin-right: 4px
+}
+form {
+	padding: 15px;
+	display: inline-block;
+}
+
+form .form-group{
+	margin-bottom: 15px!important;
+}
